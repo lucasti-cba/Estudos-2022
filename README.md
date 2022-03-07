@@ -21,3 +21,25 @@ O que é preciso para desenvolver em PHP?
 É preciso conhecer a vasta sopa de letrinhas de frameworks, ferramentas e tecnologias diferentes disponíveis. Na Formação, serão apresentadas as principais. O Composer, para gerenciar as dependências e automatizar tarefas cotidianas, como teste e empacotamento do projeto. A Doctrine como principal solução para acesso a bancos de dados do mercado PHP. E o Laravel, o framework mais usado atualmente no mercado brasileiro.
 
 - [ ] A linguagem PHP
+  - [ ] Introdução ao PHP: Primeiros passos com a linguagem
+  - [ ] Avançando com PHP: Arrays, Strings, Função e Web
+  - [ ] Orientação a Objetos com PHP: Classes, métodos e atributos
+  - [ ] Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
+
+- [ ] Mais PHP
+  - [ ] PHP: Manipulando coleções com Arrays
+  - [ ] PHP Exceptions: Tratamento de erros
+  
+- [ ] PHP Moderno
+  - [ ] PHP Composer: Dependências, Autoload e Publicação
+
+- [ ] Banco de dados
+  - [ ] PHP e PDO: Trabalhando com bancos de dados
+  - [ ] Doctrine ORM: Acesse o banco com Mapeamento Objeto-Relacional
+  
+- [ ] Web 
+  - [ ] MVC com PHP: Entenda o padrão Model-View-Controller
+  - [ ] Laravel parte 1: Produtividade no desenvolvimento web
+  - [ ] Laravel parte 2: Trabalhando com Autenticação, Relacionamentos e Testes
+  - [ ] Laravel parte 3: Eventos, filas, upload e e-mail
+  - [ ] Lumen: API Rest com o Micro-framework do Laravel
