@@ -1,4 +1,4 @@
--[ ] Apresentação de Trabalho.
+-[] Apresentação de Trabalho.
 
 https://sway.office.com/fVwyUeojUDr1mSz4?ref=Link
 
